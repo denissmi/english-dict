@@ -1,0 +1,7 @@
+english_dict/*.pyc
+
+learn_words/migrations
+learn_words/*.pyc
+
+manage.py
+*.sqlite3
